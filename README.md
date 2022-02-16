@@ -2,7 +2,7 @@
 
 ## Previo a la ejecución:
 * Clonar este repositorio
-*En un directorio diferente, clonar el siguiente repositorio: https://github.com/newcombin/devskills
+* En un directorio diferente, clonar el siguiente repositorio: https://github.com/newcombin/devskills
 * Instalar las dependencias de ambos repositorios
 
 ## Ejecución:
